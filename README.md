@@ -1,10 +1,13 @@
 BackGround Generator
+
 A web based project where you can make a nice linear gradient background
 
 Getting Started
+
 Clone this repository to a local folder & open the index.html file with a web browser, enjoy
 
 Prerequisites
+
 /
 
 Built With
